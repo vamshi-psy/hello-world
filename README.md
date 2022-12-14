@@ -1,3 +1,1 @@
-# maven-project
-
-Simple is sample demo
+Simple is sample demo project
